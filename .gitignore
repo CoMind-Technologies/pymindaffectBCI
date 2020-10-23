@@ -10,3 +10,8 @@ __pycache__
 *.res
 .gradle/*
 logs/*
+DSC_2018.00047_553_v1/*
+*/ipynb_checkpoints/*
+*.mat
+.DS_Store
+.idea/
